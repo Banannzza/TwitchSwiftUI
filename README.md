@@ -1,5 +1,5 @@
 # TwitchSwiftUI
-Experimental Twitch App on SwiftUI
+Experimental Twitch App on SwiftUI<br/>
 ![](https://github.com/Banannzza/TwitchSwiftUI/blob/master/Preview.gif)
 
 ### Dependency
